@@ -1,0 +1,66 @@
+header {
+  font-size: 70px;
+  color: #FF6262;
+  letter-spacing: 10px;
+  text-align: center;
+  padding: 45px;
+  background-color: white;
+  font-family: 'Shadows Into Light Two', cursive;
+}
+body{
+overflow: auto;
+
+}
+
+
+a{
+  color: #A6A6A6;
+  font-weight:600;
+}
+
+}
+
+footer {
+clear: both;
+display:block;
+}
+
+h2 {
+  color: #FF6262;
+  font-family: 'Shadows Into Light Two', cursive;
+  text-align: center;
+  font-size: 30px;
+}
+
+.MenuItems {
+  width: 23%;
+  display: inline-block;
+}
+#Menu {
+  border: #FF6262 dotted 1px;
+  display: block;
+  text-align: center;
+  font-size: 1.2em;
+  padding: 10px
+
+}
+
+#Image {
+  float: left;
+}
+#AboutMe {
+
+  font-size: 20px;
+  color: orange;
+  float: left;
+  width: 400px;
+  padding:30px;
+}
+
+#Image2{
+img-align: center;
+}
+
+#Social{
+img-align: center;
+}
