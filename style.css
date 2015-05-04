@@ -1,5 +1,5 @@
 header {
-  font-size: 70px;
+  font-size: 80px;
   color: #FF6262;
   letter-spacing: 10px;
   text-align: center;
@@ -18,11 +18,13 @@ a{
   font-weight:600;
 }
 
-}
+
 
 footer {
 clear: both;
 display:block;
+width:50%;
+margin:35%;
 }
 
 h2 {
@@ -53,14 +55,17 @@ h2 {
   font-size: 20px;
   color: orange;
   float: left;
-  width: 400px;
-  padding:30px;
+  width: 700px;
+  margin: 25px;
 }
 
 #Image2{
 img-align: center;
+width: 800px;
+margin: 60px auto;
+padding:15px;
 }
 
 #Social{
-img-align: center;
+
 }
