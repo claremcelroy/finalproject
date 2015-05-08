@@ -21,10 +21,13 @@ a{
 
 
 footer {
-clear: both;
-display:block;
-width:50%;
-margin:35%;
+    clear: both;
+    position: relative;
+    display:block;
+    width:60%;
+    height: 3em;
+    margin-top: 3em;
+    margin-left:19em;
 }
 
 h2 {
@@ -39,7 +42,7 @@ h2 {
   display: inline-block;
 }
 #Menu {
-  border: #FF6262 dotted 1px;
+  border: #FF6262 solid 1px;
   display: block;
   text-align: center;
   font-size: 1.2em;
@@ -60,12 +63,20 @@ h2 {
 }
 
 #Image2{
-img-align: center;
-width: 800px;
-margin: 60px auto;
-padding:15px;
-}
+margin-left:auto;
+margin-right:auto;
+width: 70%;}
 
 #Social{
 
+}
+
+#writingpage{
+  font-size: 20px;
+  color: orange;
+}
+
+#contactpage{
+  font-size: 20px;
+  color: orange;
 }
